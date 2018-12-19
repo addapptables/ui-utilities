@@ -1,0 +1,8 @@
+{
+  "name": "addapptable-utilities",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": "^7.0.0",
+    "rxjs": "~6.3.3"
+  }
+}
